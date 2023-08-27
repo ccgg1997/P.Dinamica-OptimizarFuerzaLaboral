@@ -13,6 +13,9 @@ Este proyecto se centra en la optimización de la fuerza laboral mediante el uso
 
 El programa determina, en pares, desde qué integrante hasta qué integrante comienza cada grupo. Esto tiene como propósito maximizar la suma total de niveles de rendimiento de todos los trabajadores una vez que los grupos estén formados.
 
+## Solución
+![image](https://github.com/ccgg1997/P.Dinamica-OptimizarFuerzaLaboral/assets/89625031/71eb5fc3-d8b9-4a84-a015-987ee01b3405)
+
 ## Ejecución
 Para ejecutar el programa, sigue estos pasos:
 
@@ -25,3 +28,8 @@ Para ejecutar el programa, sigue estos pasos:
 3. En Linux, desde una terminal, navega a la carpeta que contiene `index.js` y ejecuta el comando:
    ```sh
    node ./index.js
+4. En caso extremo, ejecutelo desde: https://replit.com/join/hvmhknsgvj-cristiancamil52
+
+## Resultados
+![image](https://github.com/ccgg1997/P.Dinamica-OptimizarFuerzaLaboral/assets/89625031/2ead3d0c-70c0-43ed-96eb-d6fbd41931cc)
+
