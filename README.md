@@ -1,4 +1,4 @@
-# Optimización de Programación Dinámica para Mejorar la Fuerza Laboral
+# Programación Dinámica para Mejorar la Fuerza Laboral (Optimización).
 
 ![image](https://github.com/ccgg1997/P.Dinamica-OptimizarFuerzaLaboral/assets/89625031/322ef96b-3a22-46d1-a11e-5ddb68e28b0e)
 
